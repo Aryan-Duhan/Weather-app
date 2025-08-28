@@ -2,8 +2,6 @@
 
 A sleek and responsive React-based weather application that leverages the **Open-Meteo** API to fetch live weather data—no API key required! Users can search by city to display the current temperature, humidity, wind speed, and corresponding weather icons.
 
----
-
 ##  Features
 
 - Search for any city worldwide to get:
